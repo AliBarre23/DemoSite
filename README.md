@@ -1,2 +1,2 @@
 # DemoSite
-My first GitHub repository
+My first Github repository
